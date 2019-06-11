@@ -10,9 +10,9 @@ The implementation uses linear algebra for sparse matrices from alglib
 
 Compile:
   `make arPls`
-  `make generateTestData`
   
 Run:
   `arPLS demoSpectrum.txt 1000`
 
+![](demoSpectrum.png)
 
