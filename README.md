@@ -8,7 +8,7 @@ squares smoothing", Analyst, 2015,140, 250-257
 This is an improved algorithm compared to https://github.com/zmzhang/airPLS
 
 The implementation uses linear algebra for sparse matrices from alglib
-(http://www.alglib.net). Alglib is licensed under GPL3.
+(http://www.alglib.net). Alglib is licensed under GPL2+. Commercial licenses are available.
 
 Compile:
   `make arPls`
