@@ -1,5 +1,5 @@
 VPATH=alglib-3.15/src
-OBJ:= linalg.o alglibmisc.o alglibinternal.o ap.o solvers.o statistics.o specialfunctions.o arPLS.o
+OBJ:= linalg.o alglibmisc.o alglibinternal.o ap.o solvers.o statistics.o specialfunctions.o arPLS.o main.o
 
 arPLS: $(OBJ)
 	g++ -g -Wall -o $@ $^
